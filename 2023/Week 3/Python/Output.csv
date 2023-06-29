@@ -1,0 +1,9 @@
+Quarter,Transaction Type,Value,Online or In-Person,Quarterly Targets,Variance from Target
+1,In-Person,77576,In-Person,75000,2576
+1,Online,74562,Online,72500,2062
+2,In-Person,70634,In-Person,70000,634
+2,Online,69325,Online,70000,-675
+3,In-Person,74189,In-Person,70000,4189
+3,Online,59072,Online,60000,-928
+4,In-Person,43223,In-Person,60000,-16777
+4,Online,61908,Online,60000,1908
